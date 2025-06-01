@@ -18,4 +18,29 @@
     - Movimentação (Frente)
     - Lançamento de poderes (cada inimigo tem o seu)
     - Morre com apenas um tiro
-    
+  - **Interface grafica:**
+     - Utiliza toda a tela
+     - Apresenta um cenario remetento a um cemiterio
+     - O personagem aparece um todas as cenas
+  - **Extras:**
+    - Efeito sonoro (ataques, salto, morte, queda, entre outros efeitos)
+    - Comando de voz (ataques)
+## 3. Etapas de Entrega
+  ## Etapa 1: Documentação Do Jogo
+  - Documentação
+  ## Etapa 2: Inicialização
+  - Implementação dos personagens e cenario.
+  - Movimentação dos personagens.
+  - Implementar os ataques.
+  ## Etapa 3: Pré finalização
+  - Reconhecimento dos comandos de voz.
+  - Menu inicial e telas auxiliares.
+  - Sistema de níveis.
+  - Efeitos sonoros.
+  ## Etapa 4: Testes e Entrega Final
+  - Testes de usabilidade.
+  - Correção de bugs.
+  - Documentação final.
+## 4. Requisitos técnicos
+  - Python == 3.11
+  - Pygame == 2.5.2 
