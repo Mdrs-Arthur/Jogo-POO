@@ -9,13 +9,13 @@
   Cada fase apresenta novos perigos: desde plataformas traiçoeiras até inimigos sorrateiros que surgem das tumbas. Para seguir adiante, Eron deve encontrar e reunir fragmentos místicos espalhados pelo cenário. Somente ao completar esse ritual ele conseguirá ativar o portal sagrado, a única passagem que pode levá-lo de volta ao seu mundo.
   ## 2.1 Funcionalidades Principais
   - **Personagem principal:**
-    -- Movimentação (frente, cima {salto}, baixo {rolando}, trás)
-    -- Lançamento de poderes
+    - Movimentação (frente, cima {salto}, baixo {rolando}, trás)
+    - Lançamento de poderes
   - **Sistema de vidas:**
-    -- Quantidade limitada
-    -- Possibilidade de ganhar mais
+    - Quantidade limitada
+    - Possibilidade de ganhar mais
   - **Inimigos:**
-    -- Movimentação (Frente)
-    -- Lançamento de poderes (cada inimigo tem o seu)
-    -- Morre com apenas um tiro
+    - Movimentação (Frente)
+    - Lançamento de poderes (cada inimigo tem o seu)
+    - Morre com apenas um tiro
     
